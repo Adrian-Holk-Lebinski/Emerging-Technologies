@@ -1,8 +1,3 @@
-#Jupyter Notebook entries and checkpoints
-.ipynb_checkpoints/
-*.ipynb
-*.nbconvert.ipynb
-
-#Jupyter environment settings
-.jupyter/
-nbconfig/
+#Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
